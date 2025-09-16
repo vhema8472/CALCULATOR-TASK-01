@@ -1,0 +1,39 @@
+botton
+{
+    color:blue;
+    cursor: pointer;
+    border-radius: 0.43cm;
+    font-size: larger;
+}
+botton:hover
+{
+    background-color:skyblue;
+}
+table
+{
+    width: 250px;
+    height: 250px;
+    bordor:2px;
+    text-align: center;
+}
+h1
+{
+    color: brown;
+    background-color: aqua;
+    display:inline-block;
+    margin-top:250px;
+}
+body
+{   
+    background-image:url(./IMAGE-MATH-01.jpg);
+    text-align: center;
+    align-items: center;
+}
+td{
+    border-radius: 30px;
+    background-color:lightgrey;
+    text-align: center;
+}
+*{
+    text-align: center;
+}
