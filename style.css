@@ -1,11 +1,11 @@
-botton
+button
 {
     color:blue;
     cursor: pointer;
-    border-radius: 0.43cm;
+    border-radius: 50cm;
     font-size: larger;
 }
-botton:hover
+button:hover
 {
     background-color:skyblue;
 }
@@ -13,7 +13,6 @@ table
 {
     width: 250px;
     height: 250px;
-    bordor:2px;
     text-align: center;
 }
 h1
